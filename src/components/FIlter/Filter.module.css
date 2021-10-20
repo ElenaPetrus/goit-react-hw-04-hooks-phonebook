@@ -1,0 +1,17 @@
+.input {
+  margin: 5px 15px 5px 15px;
+  padding: 3px 5px;
+  border-radius: 3px;
+  border: 1px solid rgb(165, 165, 165);
+  text-align: left;
+}
+
+label {
+  display: block;
+  font-weight: 500;
+  font-size: 20px;
+}
+
+input:focus {
+  outline-color: rgb(19, 154, 226);
+}
